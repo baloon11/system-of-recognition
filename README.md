@@ -1,4 +1,4 @@
-Python-script (the basis for system of recognition)
+#####Python-script (the basis for system of recognition)
 
 This small script: 
 - takes an image file (test.png),
