@@ -15,7 +15,7 @@ python ocr_task.py
 
 Requirements
 ------------
-##OCR Tesseract – Text Recognition
+###OCR Tesseract – Text Recognition
 	sudo apt-get install tesseract-ocr
         and
 	Install a language file:
@@ -24,7 +24,7 @@ Requirements
 See more details:
 http://ubuntu.flowconsult.at/linux/ocr-tesseract-text-recognition-ubuntu-14-04/
 
-##Pytesseract
+###Pytesseract
 	pip install Pillow==2.9.0
 	pip install pytesseract==0.1.6
 
