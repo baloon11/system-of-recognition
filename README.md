@@ -10,7 +10,7 @@ This is a basic script based on which you can build a more sophisticated recogni
 
 Usage
 -----
-python ocr_task.py
+	python ocr_task.py
 
 
 Requirements
